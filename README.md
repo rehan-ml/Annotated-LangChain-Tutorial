@@ -48,9 +48,9 @@ No key is needed for the embedding model — `Qwen3-Embedding-0.6B` runs locally
 
 Part of a broader learning-in-public series covering the RAG and Vector DB path:
 
-- [Annotated-HuggingFace-LLM-Course](https://github.com/rehan-ml/Annotated-HuggingFace-LLM-Course) — Transformers, tokenizers, fine-tuning, LoRA
-- [Annotated-VectorDB-ChromaDB-Course](https://github.com/rehan-ml/Annotated-VectorDB-ChromaDB-Course) — Vector DB fundamentals, ChromaDB, similarity search
-- [Annotated-LlamaIndex-Tutorial](https://github.com/rehan-ml/Annotated-LlamaIndex-Tutorial) — Full RAG pipeline, custom chunking, Qdrant, reranking
+- [Annotated-HuggingFace-LLM-Course](https://github.com/rehan-ml/Annotated-HuggingFace-LLM-Course)
+- [Annotated-VectorDB-ChromaDB-Course](https://github.com/rehan-ml/Annotated-VectorDB-ChromaDB-Course)
+- [Annotated-LlamaIndex-Tutorial](https://github.com/rehan-ml/Annotated-LlamaIndex-Tutorial)
 
 ## Notes
 
