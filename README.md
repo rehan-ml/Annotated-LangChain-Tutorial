@@ -55,3 +55,8 @@ Part of a broader learning-in-public series covering the RAG and Vector DB path:
 ## Notes
 
 Every code example includes theory-first explanations and inline comments — written to be understandable standalone, without needing the original tutorial as context.
+
+## Author
+**Rehan Raza**  
+Building toward an Applied AI/ML Engineer role — sharing 
+everything I learn along the way.
